@@ -1,3 +1,7 @@
+Download simplonchat.zip
+extract than follow the readme ton run the app
+
+
 # Simplonchatapp
 VanillaJS, SocketIO, Node
 ## Usage
