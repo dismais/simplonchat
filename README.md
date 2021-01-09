@@ -1,7 +1,7 @@
 # Download simplonchat.zip
 
 
-extract than follow the readme ton run the app
+extract than follow the readme to run the app
 
 
 # Simplonchatapp
